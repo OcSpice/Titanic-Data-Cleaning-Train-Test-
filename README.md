@@ -56,6 +56,10 @@ The goal of this task is to **clean and preprocess** the Titanic dataset by:
 ### 🔗 Open in Google Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dHqGRIMo8SlvjMlopBNz8d40w14WDbDP?authuser=4#scrollTo=w_KHH9K90odB)
 
+LinkedIn Post: [Coming Soon]
+
+Video Walkthrough: [Coming Soon]
+
 ---
 
 ### 📂 Repository Structure
