@@ -1,4 +1,9 @@
-# **Titanic-Data-Cleaning-Train-Test-**
+# **Titanic-Data-Cleaning-Train-Test**
+**Description:**
+Performed data cleaning and preprocessing on the Titanic dataset to uncover survival patterns. Analyzed variables like age, gender, class, and embarked port, handling missing values and outliers. Prepared clean datasets for modeling by encoding categorical variables, creating new features, and visualizing survival trends.
+
+---
+
 ## **Level 1 – Task 1: Data Cleaning & Preprocessing (Titanic Dataset)**
 
 ### 🎯 **Objective**
@@ -49,7 +54,17 @@ The goal of this task is to **clean and preprocess** the Titanic dataset by:
 - Both **train.csv** and **test.csv** are:  
   - Free of missing values (except dropped `Cabin`)  
   - Free of duplicate rows  
-  - Formatted consistently for categorical and numeric fields  
+  - Formatted consistently for categorical and numeric fields
+ 
+---
+
+## 📂 Project Structure
+
+├── Titanic_EDA.ipynb       # Google Colab Notebook with cleaning, EDA, and insights  
+├── data/                   # Folder containing dataset(s)  
+│   ├── train.csv           # Training dataset (used for main EDA)  
+│   └── test.csv            # Test dataset (used for additional checks/validation)  
+├── README.md               # Project documentation
 
 ---
 
