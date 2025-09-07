@@ -1,4 +1,4 @@
-# **Titanic-Data-Cleaning-Train-Test**
+# **Titanic Data Cleaning (Train & Test)**
 **Description:**
 Performed data cleaning and preprocessing on the Titanic dataset to uncover survival patterns. Analyzed variables like age, gender, class, and embarked port, handling missing values and outliers. Prepared clean datasets for modeling by encoding categorical variables, creating new features, and visualizing survival trends.
 
